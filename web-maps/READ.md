@@ -12,3 +12,10 @@ main.py:
 uses folium and pandas library to create the map and layers on it
 
 world.json:
+records the population of every country
+
+volcanoes.txt:
+information about the volcaones eruption
+
+.html file
+shows the output of the python project in a default browser.
