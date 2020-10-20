@@ -1,4 +1,4 @@
-this is a simple website developed in Flask web framework . 
+This is a simple website developed in Flask web framework . 
 In this project we have variours files they are :-
 
 home.html
